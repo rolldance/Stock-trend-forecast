@@ -1,5 +1,5 @@
-# Stock Trend Forecast #
-## based on corporate financial news
+# Stock Trend Forecast 
+## -based on corporate financial news
 **Instruction** This is a project about my 2017 HKU dissertation. For details display you can refer to this [website]().
 
 ### Introduction
