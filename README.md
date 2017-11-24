@@ -1,6 +1,7 @@
 # Stock Trend Forecast based on corporate financial news
-**Instruction** This is a project about my 2017 HKU dissertation. For details display you can refer to this [website]().
 ![img](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+**Instruction** This is a project about my 2017 HKU dissertation. For details display you can refer to this [website]().
 
 ### Introduction
 **Financial news** is always an important indication for the financial market, especially for the **fundamental analysis**, except for statistic materials (including company policies, financial reports and macro-industrial reports). **Technical analysis** would do the 'chart job' and use the stock own data to analyze the market behavior. 
