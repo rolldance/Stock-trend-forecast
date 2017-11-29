@@ -1,4 +1,4 @@
-# Stock Trend Forecast based on corporate financial news
+# Stock Trend Forecast based on Corporate Financial News
 ![img](https://github.com/rolldance/Stock-trend-forecast/blob/master/stockTrend_all_regression_alpha0.png "Logo Title Text 1")
 
 **Instruction** This is a project about my 2017 HKU dissertation. For details display you can refer to this [:cloud:website:cloud:]().
