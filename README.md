@@ -1,5 +1,5 @@
 # Stock Trend Forecast based on corporate financial news
-![img](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![img](https://github.com/rolldance/Stock-trend-forecast/blob/master/stockTrend_all_regression_alpha0.png "Logo Title Text 1")
 
 **Instruction** This is a project about my 2017 HKU dissertation. For details display you can refer to this [:cloud:website:cloud:]().
 
