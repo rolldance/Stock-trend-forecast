@@ -16,7 +16,7 @@ This dissertation focus on the corporate financial news with technical stock ana
 
 **[Correlation and Regression](https://en.wikipedia.org/wiki/Regression)**: Spearman, Pearson correlation analysis; OLS, Isotonic regression, Ridge regression, Bayes regression
 
-**Stock trend forecast**: ARIMA model integrate with news value attribute
+**Stock trend forecast**: ARIMA model integrate with news value attribute; Ridge regression result integrate withe news value attribute
 
 ### Code
 This project was coded by **Python** using the numpy, pandas, statstools, sklearn, matplotlib library
